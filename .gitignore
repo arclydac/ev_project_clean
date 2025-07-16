@@ -1,0 +1,17 @@
+# Ignore common large or unnecessary files
+*.exe
+*.zip
+*.msi
+*.rar
+*.7z
+*.iso
+*.tar
+*.gz
+*.dmg
+*.log
+node_modules/
+.env
+venv/
+__pycache__/
+.DS_Store
+
